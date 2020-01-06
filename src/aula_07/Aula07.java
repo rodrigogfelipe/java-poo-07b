@@ -9,14 +9,11 @@ public class Aula07 {
 		
 		l[0]= new Lutador("Pretty boy","França", 31, 1.75f, 65.9f, 11, 2, 1);
 		l[1]= new Lutador("Putscript","Brasil", 29, 1.80f, 90.9f, 10, 2, 2);
-		l[1]= new Lutador("Rodrigo","Brasil", 33, 1.60f, 70.9f, 20, 2, 2);
+		l[2]= new Lutador("Rodrigo","Brasil", 33, 1.60f, 70.9f, 20, 2, 2);
 		
 		/*imprimindo status na tela*/
-		l[0].status();
+		l[2].status();
 		
-		
-		
-
 	}
 
 }
